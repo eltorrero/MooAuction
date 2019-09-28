@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: MooAuction
+## Notes: Better auction house experience
+## Author: eltorrero
+## Version: 20190928
+
+MooAuction.lua
